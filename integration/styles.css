@@ -5,3 +5,5 @@ img{
     height: auto;}
 img:hover{
     opacity: 0.5;}
+.article img:first-child{
+    filter: grayscale(100%);}
