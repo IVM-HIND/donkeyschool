@@ -7,3 +7,15 @@ img:hover{
     opacity: 0.5;}
 .article img:first-child{
     filter: grayscale(100%);}
+nav.scrollmenu{
+    background-color: #b5838d;
+    overflow: auto;
+    white-space: nowrap;}
+nav.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;}
+nav.scrollmenu a:hover {
+    background-color: #6d6875;}
