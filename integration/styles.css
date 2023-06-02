@@ -1,1 +1,7 @@
 *
+img{
+    border-radius: 3px;
+    width: 25%;
+    height: auto;}
+img:hover{
+    opacity: 0.5;}
