@@ -1,7 +1,7 @@
 *
 img{
     border-radius: 3px;
-    width: 25%;
+    width: 100%;
     height: auto;}
 img:hover{
     opacity: 0.5;}
@@ -19,3 +19,8 @@ nav.scrollmenu a {
     text-decoration: none;}
 nav.scrollmenu a:hover {
     background-color: #6d6875;}
+
+@media (min-width: 600px){
+    *{color:black; 
+    background: white;}}
+
